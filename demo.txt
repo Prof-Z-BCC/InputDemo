@@ -1,3 +1,2 @@
-5 
-The cat in the hat.
-2.6
+214585
+This is a string in the file.
